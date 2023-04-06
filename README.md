@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luis-gustta
 - Currently working with fluids and cell migration
 - Statistical Mechanics and thermodynamics
-- 
 <!---- U+1F9EB currently working with cell sim
 - 👀 Dynamical simulation and machine learning :man_scientist: :computer: :satellite:
 - 💞️ I’m looking to collaborate on any project I have time to work on
