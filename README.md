@@ -18,11 +18,11 @@
 ### 🌌 **Physics & Math That Keep Me Up at Night**
 - 🎲 Statistical Mechanics & Thermodynamics
 - 🧿 Quantum Mechanics
-- 🌊 Fluid Dynamics (because of that turbulence...)
-- 🔄 Chaos & Dynamical Systems (predicting the unpredictable)
+- 🌊 Fluid Dynamics
+- 🔄 Chaos & Dynamical Systems
 - 🧑‍🔬 Particle Physics (especially with those barely existing, incredibly shy neutrinos)
-- 📐 Differential Geometry (curves & manifolds make everything cooler; and harder)
-- 🧩 Numerical Methods (turning math into another code)
+- 📐 Differential Geometry
+- 🧩 Numerical Methods
 
 ### 🔧 **Other Random Skills**
 - 🛠️ Electronics & tinkering with hardware
