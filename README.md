@@ -30,7 +30,7 @@
 - 🧪 Playing with chemicals (_safely_, I promise)
 
 ### 🌎 **Languages**
-- 🇧🇷 Portuguese
+- 🇧🇷 Portuguese (native)
 - 🇬🇧 English
 - 🇪🇸 Spanish
 - 🇮🇹 Italian
